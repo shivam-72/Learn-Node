@@ -1,0 +1,4 @@
+node has 3 things when node code is run
+1.call stack
+2.api
+3callback queue
