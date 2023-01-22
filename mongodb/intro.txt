@@ -1,0 +1,14 @@
+=>mongodb is a nosql database
+=>in mongodb data stored in a collection
+=>collection dont have row and column
+=>data is stored in a form of object
+//to create database
+use databasename
+//to show database
+show db
+//to delete database
+db.dropDatabase()
+//to delete collection
+db.databasename.drop()
+//to add connection
+db.createCollection('newfile')

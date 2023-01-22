@@ -1,0 +1,4 @@
+//when we want to add new data in database through api we use post method;
+//when we want to read data get method;
+//to update data put
+//to delete data delete

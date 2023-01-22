@@ -1,0 +1,15 @@
+
+first use use db_name
+
+//top insert data in collection
+db.collectionname.insertOne()
+db.collectionname.insertmany()
+//to check data
+db.collectionname.find();
+//to update data
+db.products.updateOne(1{name:"u10"},2{$set:{brand:"nokia"}})
+1->for identification which to update 
+2->for whjat to update or add
+//for delete
+db.collectionname.deleteOne({1brand:"apple})
+1->the parameter is for identification for delete

@@ -1,0 +1,4 @@
+mongoose is same as mongodb but it help use create schema and add constraint 
+while adding data in database whereas mongo does not provide this.
+//model : with the help of schema model connect node js to mongodb
+//schema : schema is the constraint added in particular collection.it is feild
